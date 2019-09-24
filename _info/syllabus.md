@@ -71,8 +71,8 @@ Your course grade will be determined as follows:
 
 | Grade Item                        | Percentage of Final Grade |
 |-----------------------------------|---------------------------|
-| Midterm 1 (Thurs 4/25)            | 15 %                      |
-| Midterm 2 (Thurs 5/23)            | 15 %                      |
+| Midterm 1 (Thurs 10/24)           | 15 %                      |
+| Midterm 2 (Thurs 11/21)           | 15 %                      |
 | Final (Tues 12/10 4pm - 7pm)      | 30 %                      |
 | Homeworks                         | 10 %                      |
 | Labs                              | 30 %                      |
