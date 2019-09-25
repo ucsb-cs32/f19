@@ -27,9 +27,9 @@ off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
 
 submit_cs_course:
 
-start_week: 1
+start_week: 0
 start_date: 2019-09-22 00:00:00.00-7:00
-num_weeks: 10
+num_weeks: 11
 extra_exam_week: true
 sections: "9am, 10am, 11am, 12pm"
 
