@@ -4,7 +4,7 @@ num: lab00
 ready: true
 desc: "Review of C++ basics, Makefiles, Gradescope"
 assigned: 2019-09-30 08:00:00.00-7
-due: 2019-10-06 23:59:00.00-7
+due: 2019-10-09 23:59:00.00-7
 ---
 
 Goals
@@ -761,22 +761,15 @@ At that point, you are ready to try submitting to the Gradescope system.
 
 ### An important word about academic honesty
 
-We will test your code against other data files too—not just these. So
-while you might be able to pass the tests on Gradescope now by just doing
-a hard-coded "cout" of the expected output, that will NOT receive
-credit.
+Take a minute to read UCSB's Academic Integrity Policy: <http://judicialaffairs.sa.ucsb.edu/academic-integrity>
 
-To be very clear, code like this will pass on Gradescope, BUT REPRESENTS
-A FORM OF ACADEMIC DISHONESTY since it is an attempt to just "game the
-system", i.e. to get the tests to pass without really solving the
-problem.
+It is important that your code is a product of your work. The only time you are allowed to share code is between you and your pair programming partner. You may not distribute or share your solution to any other student. You may not base your code on other students' code (this includes retyping someone else's solution, make slight modifications, and submit it as your own work).
 
-I would hope this would be obvious, but I have to say it so that there
-is no ambiguity: hard coding your output is a form of cheating, i.e. a
-form of "academic dishonesty". Submitting a program of this kind would
-be subject not only to a reduced grade, but to possible disciplinary
-penalties. If there is <em>any</em> doubt about this fact, please ask
-your TA and/or your instructor for clarification.
+We will also test your code against other data files too—not just these. So while you might be able to pass the tests on Gradescope now by just doing a hard-coded "cout" of the expected output, that will NOT receive credit.
+
+To be very clear, code like this will pass on Gradescope, BUT REPRESENTS A FORM OF ACADEMIC DISHONESTY since it is an attempt to just "game the system", i.e. to get the tests to pass without really solving the problem.
+
+I would hope this would be obvious, but I have to say it so that there is no ambiguity: hard coding your output is a form of cheating, i.e. a form of "academic dishonesty". Submitting a program of this kind would be subject not only to a reduced grade, but to possible disciplinary penalties. If there is <em>any</em> doubt about this fact, please ask your TA and/or your instructor for clarification.
 
 Step 7: Submitting via Gradescope
 --------------------------------
@@ -808,5 +801,4 @@ Gradescope automated
 Acknowledgements
 ================
 
-Some material in this lab is based on work originally written by Mike
-Costanzo and edited by Phill Conrad, and Richert Wang. Other parts are original work of Phill Conrad.
+Some material in this lab is based on work originally written by Mike Costanzo and edited by Phill Conrad, and Richert Wang. Other parts are original work of Phill Conrad.
