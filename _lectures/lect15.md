@@ -1,6 +1,6 @@
 ---
 num: "Lecture 15"
-desc: "Unix Processes, Fork / Exec"
+desc: "Midterm 2 Review"
 ready: true
-lecture_date: 2019-11-21 14:00:00.00-7:00
+lecture_date: 2019-11-19 14:00:00.00-7:00
 ---
