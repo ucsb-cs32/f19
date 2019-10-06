@@ -7,7 +7,6 @@ ready: true
 # Course Staff<a name="staff"></a>
 
 ## Course Instructor: Richert Wang
-* email: richert@ucsb.edu
 * Office hours time and location are available on [CMPSC 32 Office Hours](/f19/info/office_hours/)
 
 ## CS 32 TA / Tutor profiles
