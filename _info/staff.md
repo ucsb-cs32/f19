@@ -58,7 +58,7 @@ table, th, td {
   <tr>
   <td>
   <img src="/f19/info/mentorPhotos/Alan.jpg" alt="Andrew" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Allan Roddick (Tutor) </b>
+  <b> Alan Roddick (Tutor) </b>
   <i> "Hi everyone! My name is Alan and I will be one of your tutors for CS 32. I am a third year computer science major who transferred last year from physics. Before college, I had no prior computer science experience. After I took my first computer science class, though, I loved it and was fortunate enough to get into all of the classes necessary to change into it. CS 32 was one of my favorite computer science classes, and the techniques I learned in the class helped pave the way for later classes. Taken from someone who had to catch up to most people already in the major, I know how challenging and frustrating some aspects of computer science are. Utilizing the helpful TAs and professors around me along with putting more time into a problem before I asked a question  was a main factor in me learning the material better. Outside of class, I enjoy playing sports, playing the guitar, and being outside. I generally love playing any sport, but I more frequently play baseball or go to the gym to play basketball. I also love watching sports, specifically Ohio State college football and the San Jose Sharks. My other favorite outdoor activities include hiking, kayaking, playing spikeball, and relaxing at the beach. I am looking forward to having a great quarter with you all!" </i>
   </td>
   </tr>
