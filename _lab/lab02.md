@@ -35,7 +35,7 @@ Once you and your partner are in agreement, choose an initial driver and navigat
 
 ## Step by Step Instructions to getting setup with github <a name="git"></a>
 
-In case you have not setup github yet, you can follow the steps to do so. If you already have your environment configured to use github, then you can skip these git configuration instructions.
+In case you have not setup github yet, you can follow the steps to do so. For this lab and subsequent labs, you will be required to make Gradescope submissions via your github repo. If you already have your environment configured to use github, then you can skip these git configuration instructions.
 
 ## Do some initial ONE-TIME git configurations (this step has to be done individually)
 
@@ -108,7 +108,7 @@ Go ahead and type them out on a terminal in your git repo directory. The above c
 
 Note: Every time you add a new piece of logic to your code, you should save a snapshot of the latest version of your code by issuing the commands: *git add ...* , *git commit ...* and *git push ...*. All the previous versions will be available to you as well and you have the option of reverting to older versions (We will see how in later labs). As you go through the rest of this lab you will essentially need to use these commands to keep track of the different versions of your code. Note that you should only keep relevant files in your repo - avoid uploading non-important LARGE files in your repo since this may cause errors when making your submission to Gradescope.
 
-Congratulations on integrating git into your workflow! Now proceed to the programming part of this assignment.
+Congratulations on integrating git into your workflow!
 
 ## Step 2 Getting the code to pass the tests
 
