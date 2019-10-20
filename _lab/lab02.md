@@ -3,7 +3,7 @@ layout: lab
 num: lab02
 ready: true
 desc: "C++ Big-Three Review: Constructor, Destructor, Assignment Operator"
-assigned: 2019-10-17 14:00:00.00-7
+assigned: 2019-10-17 08:00:00.00-7
 due: 2019-10-23 23:59:00.00-7
 ---
 
