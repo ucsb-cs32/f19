@@ -4,7 +4,7 @@ num: lab04b
 ready: true
 desc: "Hash Table Testing: cleanup"
 assigned: 2019-11-07 08:00:00.00-7
-due: 2019-11-14 23:59:00.00-7
+due: 2019-11-13 23:59:00.00-7
 ---
 
 # Goals
